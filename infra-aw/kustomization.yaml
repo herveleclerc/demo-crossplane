@@ -5,3 +5,4 @@ resources:
   - deployment.yaml
   - service.yaml
   - ingress.yaml
+  - https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
